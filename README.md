@@ -1,6 +1,6 @@
 <h1>Hamburger Icon Animation</h1>
 
-<p>Transition animation between closed and open flyout menu states from hamburger icon to "x".</p>
+<p>Animate transition between closed and open flyout menu states from 2 bar hamburger icon to "x".</p>
 
 <hr />
 
